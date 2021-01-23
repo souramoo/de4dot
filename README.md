@@ -20,7 +20,7 @@ Instead, try to update de4dot yourself. It's a lot easier than you think. If you
 Features
 ========
 
-Here's a pseudo random list of the things it will do depending on what obfuscator was used to obfuscate an assembly:
+Here's a pseudo random list of the things it will do depending on what obfuscator was used to obfuscate an assembly:  
 
 * Inline methods. Some obfuscators move small parts of a method to another static method and calls it.
 * Decrypt strings statically or dynamically
